@@ -15,8 +15,9 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+<br>
+Boolean function minimization is the process of simplifying Boolean algebra expressions to reduce the number of variables and terms. This is crucial for creating more efficient, cost-effective, and faster digital circuits by decreasing the number of logic gates, which leads to lower power consumption and improved performance. Common minimization techniques include algebraic manipulation and Karnaugh Maps (K-Maps). 
 
-**Logic Diagram**
 
 **Procedure**
 
@@ -56,7 +57,6 @@ endmodule
 
 <img width="1522" height="738" alt="image" src="https://github.com/user-attachments/assets/7a5a43da-30b5-4891-b4c7-8588f5bc897b" />
 
-**Output:**
 
 **RTL**
 <img width="1909" height="669" alt="image" src="https://github.com/user-attachments/assets/f7f83eb2-54f7-4dbf-a0fa-06da9c710357" />
@@ -65,7 +65,6 @@ endmodule
 <img width="1909" height="790" alt="image" src="https://github.com/user-attachments/assets/19f0202c-aa75-43f1-a361-922c474116af" />
 
 
-**Timing Diagram**
 
 **Result:**
 
